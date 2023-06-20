@@ -23,5 +23,5 @@ return (0);
 _putchar(45);
 return (-1);
 }
--_putchar('\n');
+_putchar('\n');
 }
