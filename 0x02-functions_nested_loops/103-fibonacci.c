@@ -20,7 +20,7 @@ int main(void)
 		{
 			sum = sum + u;
 		}
-		next = u + u1;
+		cha = u + u1;
 		u = u1;
 		u1 = cha;
 	}
